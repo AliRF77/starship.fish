@@ -61,4 +61,4 @@ complete -c starship -n "__fish_seen_subcommand_from timings" -s d -l cmd-durati
 complete -c starship -n "__fish_seen_subcommand_from timings" -s k -l keymap -d 'The keymap of fish/zsh/cmd' -r
 complete -c starship -n "__fish_seen_subcommand_from timings" -s j -l jobs -d 'The number of currently running jobs' -r
 complete -c starship -n "__fish_seen_subcommand_from timings" -s h -l help -d 'Print help information'
-complete -c starship -n "__fish_seen_subcommand_from toggle" -s h -l help -d 'Print help information
+complete -c starship -n "__fish_seen_subcommand_from toggle" -s h -l help -d 'Print help information'
